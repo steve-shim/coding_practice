@@ -19,7 +19,7 @@ def seq_search(a: Sequence, key: Any) -> int:
 if __name__ == '__main__':
     num = int(input('원소 수를 입력하세요.: '))  # num 값을 입력
     x = [None] * num                            # 원소 수가 num인 배열을 생성
-
+    # 리스트의 크기가 정해져 있어야 한다
     for i in range(num):
         x[i] = int(input(f'x[{i}]: '))
 
