@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
+Traceback (most recent call last):
+  File "test.py", line 16, in <module>
+    assert number!=5, '5 Err'
+AssertionError: 5 Err
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
+Traceback (most recent call last):
+  File "test.py", line 15, in <module>
+    raise ValueError('Even Err')
+ValueError: Even Err
