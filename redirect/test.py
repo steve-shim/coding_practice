@@ -2,7 +2,6 @@
 cd redirect
 python test.py 2> err.txt 1> out.txt
 '''
-
 import traceback
 import sys
 

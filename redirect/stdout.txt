@@ -1,0 +1,4 @@
+[2]This message will be displayed on the screen.
+[2]This is output
+[2]This message will be displayed via standard output.
+[2]original

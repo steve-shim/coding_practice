@@ -1,0 +1,2 @@
+[3]This is output err
+[3]This message will be displayed via the standard error.
